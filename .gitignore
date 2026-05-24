@@ -1,0 +1,25 @@
+# Visual Studio / .NET
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+
+# Build and IDE caches
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Large files and datasets
+*.rar
+*.zip
+*.mdf
+*.ldf
+*.csv
+*.tsv
+*.txt
+
+# OS Files
+.DS_Store
+Thumbs.db
